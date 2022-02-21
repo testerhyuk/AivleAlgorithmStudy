@@ -3,12 +3,12 @@
 ## 스터디원
 
 - [김규혁](https://github.com/testerhyuk)
-- [서아현]()
+- [서아현](https://github.com/doublemano)
 - [이태우]()
 - [조영래](https://github.com/younglaecho)
 - [조용준]()
-- [진정한]()
-- [최승훈]()
+- [진정한](https://github.com/jin9007)
+- [최승훈](https://github.com/owvwo)
 
 ## 진행 방식
 
