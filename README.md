@@ -6,7 +6,7 @@
 - [서아현](https://github.com/doublemano)
 - [이태우]()
 - [조영래](https://github.com/younglaecho)
-- [조용준]()
+- [조용준](https://github.com/yongjunism)
 - [진정한](https://github.com/jin9007)
 - [최승훈](https://github.com/owvwo)
 
