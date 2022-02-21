@@ -36,5 +36,5 @@ Rattata
 25 71
 
 ## 예제 출력
-14
-Weedle
+14  
+Weedle  
