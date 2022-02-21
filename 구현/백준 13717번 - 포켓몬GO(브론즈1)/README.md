@@ -25,13 +25,13 @@
 두 번째 줄엔 가장 많이 진화시킬 수 있는 포켓몬의 이름을 출력한다.
 
 ## 예제 입력
-4
-Caterpie
-12 33
-Weedle
-12 42
-Pidgey
-12 47
+4  
+Caterpie  
+12 33  
+Weedle  
+12 42  
+Pidgey  
+12 47  
 Rattata
 25 71
 
