@@ -4,7 +4,7 @@
 
 - [김규혁](https://github.com/testerhyuk)
 - [서아현](https://github.com/doublemano)
-- [이태우]()
+- [이태우](https://github.com/leetaewoo123)
 - [조영래](https://github.com/younglaecho)
 - [조용준](https://github.com/yongjunism)
 - [진정한](https://github.com/jin9007)
