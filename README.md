@@ -26,3 +26,6 @@
 
 3. 알고리즘 유형 순서
    - 구현 -> bfs/dfs -> 그리디 -> 다이나믹 프로그래밍 -> 정렬
+
+## 공유 노션
+https://diagnostic-tub-d6a.notion.site/82c0365009ff46d084d23843721d67de?v=55e4c9fc0d9b432582b376a05a6e3582
