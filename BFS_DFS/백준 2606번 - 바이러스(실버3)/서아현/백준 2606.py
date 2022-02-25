@@ -1,7 +1,6 @@
 num = int(input())
 connect = int(input())
 com = [0]*connect
-val2=[]
 computer = {}
 
 for i in range(connect):
@@ -15,11 +14,9 @@ for i in range(1, num+1):
                 val.append(list[1])
             else :
                 val.append(list[0])
-    val2.append({
-        i:val
-    })
 
-    computer[i] = set(val2[i-1][i])
+    computer[i] = set(val)
+
 
 def bfs(graph, node):
     visit=[]
