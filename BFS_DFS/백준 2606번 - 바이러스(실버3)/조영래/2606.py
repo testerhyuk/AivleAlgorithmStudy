@@ -5,7 +5,6 @@ from collections import defaultdict
 Dict = defaultdict(list)
 
 visited = [False]*(n+1)
-# visited[1] = True
 
 for _ in range(m):
   start, end = map(int, input().split())
@@ -22,4 +21,4 @@ def dfs(graph, i, visited):
 
 dfs(Dict, 1, visited)
 
-print(visited.count(True))
+print(visited.count(True)-1)
