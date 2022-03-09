@@ -1,0 +1,16 @@
+설명 영상 : https://youtu.be/2IkdAk1Loek 
+
+5x + 2y + 1z = 10 을 생각하고 
+몫까지만 for문이 돌도록 코드를 짜봄
+for문을 다 돌아야함 비효율적, 입력값에 따른 for문 생성 구현 실패
+
+cnt=0
+result = []
+for i in num:
+    result.append(info[1] // i)
+
+for i in range(result[0]+1):
+    for j in range(result[1]+1):
+        for k in range(result[2]+1):
+            if num[0]*i + num[1]*j + num[2]*k == info[1]:
+                cnt +=1
