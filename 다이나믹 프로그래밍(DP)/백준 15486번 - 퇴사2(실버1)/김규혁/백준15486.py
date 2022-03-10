@@ -20,4 +20,4 @@ for day in range(n, 0, -1):
         dp[day] = dp[day + 1]
     else:
         dp[day] = max(dp[day + 1], dp[next_day] + wage)
-print(dp[1])
+print(max(dp))
